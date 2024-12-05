@@ -4,7 +4,7 @@ This project scrapes Pokémon card price data from [pricecharting.com](https://w
 
 ## Features
 - Fetches data for individual Pokémon cards using pricecharting.com.
-- Outputs data into an Excel file with columns for card name, price, and condition.
+- Outputs data into an Excel file with columns for card name, grade, and pricecharting URL
 - Easy-to-use interface for inputting card links.
 
 ## Requirements
