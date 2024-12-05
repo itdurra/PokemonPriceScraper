@@ -6,10 +6,13 @@ This project scrapes Pokémon card price data from [pricecharting.com](https://w
 - Fetches data for individual Pokémon cards using pricecharting.com.
 - Outputs data into an Excel file with columns for card name, grade, and pricecharting URL
 - Easy-to-use interface for inputting card links.
+  ![Screen Shot 2024-12-05 at 12 51 31 PM](https://github.com/user-attachments/assets/e3fc694d-3629-41cd-940c-7b6222867311)
+
 
 ## Requirements
 - Python 3.x
-- Libraries: `pillow`, `openpyxl`, `beautifulsoup4`, `requests`
+- Libraries: `pillow`, `openpyxl`, `beautifulsoup4`, `requests`, `pathlib`
+- `os`, `sys`
 
 ## Installation
 1. Clone the repository:
